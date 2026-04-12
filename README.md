@@ -2,6 +2,10 @@
 
 A multi-agent research assistant that combines live web search with local document retrieval (RAG) to produce grounded, source-cited answers. Three specialized AI agents — Research Agent, Analyst Agent, and Writer Agent — collaborate in a sequential pipeline orchestrated by CrewAI, outputting a structured Markdown report.
 
+## Links
+
+- Publication: [Multi-Agent RAG Research Assistant](https://app.readytensor.ai/publications/multi-agent-system-HEqIdW3FgxtA)
+
 ---
 
 ## Table of Contents
@@ -345,6 +349,5 @@ See [CHANGELOG.md](CHANGELOG.md) for version history.
 
 ## Contact
 
-**Maintainer:** Samrat Kar
-**Email:** samrat.kar@example.com
+**Maintainer:** Samrat Kar  
 **GitHub:** [samrat-kar](https://github.com/samrat-kar)
